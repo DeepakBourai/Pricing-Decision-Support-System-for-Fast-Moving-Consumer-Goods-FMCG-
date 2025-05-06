@@ -1,4 +1,4 @@
-# Demand-Elasticity-Based-Price-Optimization-for-Fast-Moving-Consumer-Goods
+# Pricing-Decision-Support-System-for-Fast-Moving-Consumer-Goods
 ## Overview
 The FMCG industry faces the challenges of balancing revenue maximization with environmental sustainability due to products with short shelf lives, rapid consumption, and large-scale production. Demand forecasting and price optimization are key strategies for effective production planning and dynamic pricing. This project developed a **pricing decision support tool** for FMCG businesses, leveraging these strategies along with price elasticity of demand through advanced machine learning techniques. The following specifies machine learning techniques utilized for each application:  
 - Demand Forecasting: **Supervised Learning** with XGBoost Regression algorithm  
